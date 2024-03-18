@@ -19,5 +19,6 @@
   "version": "1.0.0",
   "devDependencies": {},
   "author": "Umberto",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords" : ["tutorial" , "training" , "learning"]
 }
